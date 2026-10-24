@@ -1,0 +1,14 @@
+docs/get-started/agents.mdx
+  h_2be081509d88e0 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "755834b74231987539a3eb205c96a6ccf481a3e7",
+  "prompts": {},
+  "humans": {
+    "h_2be081509d88e0": {
+      "author": "Hashim Lokasher <hashimlokasher@gmail.com>"
+    }
+  }
+}
